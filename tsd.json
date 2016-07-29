@@ -7,6 +7,18 @@
   "installed": {
     "node/node.d.ts": {
       "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "express/express.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "mime/mime.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
     }
   }
 }

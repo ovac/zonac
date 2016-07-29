@@ -1,8 +1,9 @@
 var express = require('express');
 var app = express();
+var path = require('path');
 
-app.get('/', function(req, res) {
-  res.send('Hello Gammer');
-});
+app.use(express.static(path.join(__dirname, "../public")));
+
+app.use('/users', require('./users/users.route'));
 
 module.exports = app;
