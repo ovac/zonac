@@ -1,0 +1,24 @@
+{
+  "name": "zonac",
+  "version": "0.0.1",
+  "description": "Zonac online gambling platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovac/zonac.git"
+  },
+  "keywords": [
+    "zonac",
+    "online",
+    "gambling"
+  ],
+  "author": "Ariama Victor <iamovac@gmail.com> (A.K.A. OVAC BOYA)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovac/zonac/issues"
+  },
+  "homepage": "https://github.com/ovac/zonac#readme"
+}
