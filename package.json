@@ -4,6 +4,7 @@
   "description": "Zonac online gambling platform",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon ./server/bin/www",
     "test": "mocha",
     "lint": "eslint ."
   },
@@ -23,7 +24,8 @@
   },
   "homepage": "https://github.com/ovac/zonac#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "nodemon": "^1.10.0"
   },
   "devDependencies": {
     "eslint": "^3.1.1",
