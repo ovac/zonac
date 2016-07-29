@@ -25,6 +25,7 @@
   "homepage": "https://github.com/ovac/zonac#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "mongoose": "^4.5.7",
     "nodemon": "^1.10.0"
   },
   "devDependencies": {

@@ -19,6 +19,18 @@
     },
     "express-serve-static-core/express-serve-static-core.d.ts": {
       "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "systemjs/systemjs.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
     }
   }
 }
