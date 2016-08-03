@@ -7,6 +7,7 @@ var iresponse = {
 };
 router.route('/')
   .post(function(req, res) {
+    req.header('Access-Control-Allow-Origin', '*');
     res.json(iresponse);
     console.log(req.body);
   });
