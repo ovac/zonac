@@ -1,9 +1,9 @@
 var router = require('express').Router();
 
 var iresponse = {
-  'type': 'response',
-  'message': 'hello',
-  'clientState': 'state of the client'
+  "Type": "Response",
+  "Message": "Welcome to My Service: 1. Free Food 2. Free Drink"
+  // 'clientState': 'state of the client'
 };
 router.route('/')
   .post(function(req, res) {
