@@ -6,19 +6,19 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "node/node.d.ts": {
-      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+      "commit": "cd94d1e2dd95797ebfbdab1d0e8e4a419d5cfc92"
     },
     "express/express.d.ts": {
-      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+      "commit": "cd94d1e2dd95797ebfbdab1d0e8e4a419d5cfc92"
     },
     "serve-static/serve-static.d.ts": {
-      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+      "commit": "cd94d1e2dd95797ebfbdab1d0e8e4a419d5cfc92"
     },
     "mime/mime.d.ts": {
-      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+      "commit": "cd94d1e2dd95797ebfbdab1d0e8e4a419d5cfc92"
     },
     "express-serve-static-core/express-serve-static-core.d.ts": {
-      "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+      "commit": "cd94d1e2dd95797ebfbdab1d0e8e4a419d5cfc92"
     },
     "systemjs/systemjs.d.ts": {
       "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
@@ -31,6 +31,9 @@
     },
     "angularjs/angular.d.ts": {
       "commit": "094dfc6420d3118c9c691764a29b4fbbfc041af6"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "cd94d1e2dd95797ebfbdab1d0e8e4a419d5cfc92"
     }
   }
 }
